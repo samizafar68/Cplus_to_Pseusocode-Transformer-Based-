@@ -20,6 +20,7 @@ The model has been deployed with an interactive **Streamlit** web app, allowing 
 Try it out yourself:
 
 🔗 **Live Streamlit App**: *[Streamlit link here](https://xc2vptrxpbfryq3axfuuax.streamlit.app/)*  
+🔗 **Medium Blog**: *[Medium blog link here](https://medium.com/@sami68/turning-code-into-logic-building-a-c-to-pseudocode-transformer-from-scratch-0c8505179f90)*  
 
 ---
 
