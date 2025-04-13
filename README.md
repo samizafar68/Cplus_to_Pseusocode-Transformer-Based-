@@ -54,4 +54,7 @@ Try it out yourself:
     Linear Layer + Softmax 
        ↓
     [Generated Pseudocode]
+## Sample Outputs:
+   ![image](https://github.com/user-attachments/assets/e7107994-188e-4d69-8364-1964eeb94f2a)
+
 
